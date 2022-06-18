@@ -39,7 +39,7 @@ Sigmoid是常用的非线性的激活函数
 
 ## Tanh函数
 
-![avatar](/Entropy/TanhFunction.png)
+![avatar](/Entropy/TanhFunciton.png)
 
 原点中心对称，输出在-1到1之间
 
