@@ -47,6 +47,8 @@ Sigmoid是常用的非线性的激活函数
 
 ## Relu函数
 
+![avatar](/Entropy/ReluFunction.png)
+
 $$f(x)=max(0,x)$$
 
 公式简单实用
