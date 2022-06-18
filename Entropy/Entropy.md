@@ -27,7 +27,7 @@ $$A[1,1,1,1,1,1],B[1,2,3,4,5,3]$$
 
 ## Sigmoid函数
 
-
+![avatar](/Entropy/SigmoidFunction.png)
 
 Sigmoid是常用的非线性的激活函数
 
@@ -38,6 +38,8 @@ Sigmoid是常用的非线性的激活函数
 非原点对称就会使得输出值全为整数，会导致梯度全为正数或全为负数；优化更新会产生阶梯式情况
 
 ## Tanh函数
+
+![avatar](/Entropy/TanhFunction.png)
 
 原点中心对称，输出在-1到1之间
 
