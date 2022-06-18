@@ -27,7 +27,7 @@ $$A[1,1,1,1,1,1],B[1,2,3,4,5,3]$$
 
 ## Sigmoid函数
 
-![avatar](ML_Algorithm/Entropy/SigmoidFunction.png)
+
 
 Sigmoid是常用的非线性的激活函数
 
