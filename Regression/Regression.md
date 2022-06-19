@@ -57,6 +57,8 @@ $$E(y) = \beta_0 + \beta_1x$$
 
 误差$\epsilon$是独立并且具有相同的分布，并且服从均值为0方差为$\theta^2$的**高斯分布**
 
+![avatar](/Regression/NormalDistribution.png)
+
 ### 以银行贷款举例
 
 *  独立：张三和李四一起来贷款，他们俩没关系
